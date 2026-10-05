@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <sub>alt account for pt purposes only</sub>
+  <sub>for pt purposes only</sub>
 </p>
